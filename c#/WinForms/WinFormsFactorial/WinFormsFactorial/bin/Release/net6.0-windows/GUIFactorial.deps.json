@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GUIFactorial/1.0.0": {
+        "dependencies": {
+          "BLLFactorial": "1.0.0"
+        },
+        "runtime": {
+          "GUIFactorial.dll": {}
+        }
+      },
+      "BLLFactorial/1.0.0": {
+        "runtime": {
+          "BLLFactorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GUIFactorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BLLFactorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

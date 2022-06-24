@@ -1,0 +1,31 @@
+body {
+  background-color: palevioletred;
+  color: aquamarine;
+}
+
+header {
+  background-color: blueviolet;
+}
+
+footer {
+  background-color: blueviolet;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}

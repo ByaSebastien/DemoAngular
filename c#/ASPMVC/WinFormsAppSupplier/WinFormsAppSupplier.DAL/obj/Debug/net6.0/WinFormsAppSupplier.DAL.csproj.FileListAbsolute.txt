@@ -1,0 +1,12 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\bin\Debug\net6.0\WinFormsAppSupplier.DAL.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\bin\Debug\net6.0\WinFormsAppSupplier.DAL.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\bin\Debug\net6.0\WinFormsAppSupplier.DAL.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\obj\Debug\net6.0\WinFormsAppSupplier.DAL.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\obj\Debug\net6.0\WinFormsAppSupplier.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\obj\Debug\net6.0\WinFormsAppSupplier.DAL.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\obj\Debug\net6.0\WinFormsAppSupplier.DAL.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\obj\Debug\net6.0\WinFormsAppSupplier.DAL.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\obj\Debug\net6.0\WinFormsAppSupplier.DAL.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\obj\Debug\net6.0\refint\WinFormsAppSupplier.DAL.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\obj\Debug\net6.0\WinFormsAppSupplier.DAL.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.DAL\obj\Debug\net6.0\ref\WinFormsAppSupplier.DAL.dll

@@ -1,0 +1,140 @@
+/* Les balises */
+h1 {
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h1, h2 {
+    margin-bottom: 5px;
+}
+
+body {
+    background-color: darkslategray;
+}
+
+main {
+    width: 800px;
+    margin: auto;
+    background-color: snow;
+    height: 100%;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+dl > dt {
+    float: left;
+    clear: both;
+}
+dl > dd {
+    float: left;
+}
+
+dl > dt::after {
+    content: '→';
+    padding-left: 0.5ch;
+    padding-right: 0.5ch;
+}
+
+dl > dt, dl > dd, li, p {
+    margin-bottom: 2px;
+}
+
+.StopFloat {
+    clear: both;
+}
+
+
+/* Les infos de base */
+#HeaderCV {
+    margin: auto;   
+     display: block;
+     width: fit-content;
+}
+#HeaderCV h1 {
+    display: block;
+}
+
+#Citation {
+    display: block;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+#Citation::before {
+    padding: 2ch;
+    content: '';
+}
+
+#PhotoCV {
+    width: 80%;
+    display: block;
+    margin: 20px auto;
+
+    border-radius: 100%;
+}
+
+/* Section Info CV */
+.InfoCV {
+    border: 2px solid darkslategray;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.InfoCV > header {
+    background-color: darkslategray;
+    color: snow;
+    padding: 2px 0px 2px 5ch;
+}
+
+.InfoCV > .data {
+    padding: 7.5px 15px;
+}
+
+/* Section Info CV - Float */
+#exp, #comp, #lang, #info {
+    box-sizing: border-box;
+    float: left;
+    width: calc(50% - 20px);
+    margin: 10px;
+}
+
+#exp dl dd {
+    width: calc(100% - 100px);
+}
+#exp dl dt {
+    width: 100px;
+    overflow-x: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+/* Exemple de negation de selecteur CSS */
+#exp dl dd p:first-child {
+    font-weight: bold;
+}
+#exp dl dd p:not(:first-child) {
+    font-style: italic;
+}
+
+#exp {
+    height: 100%;
+}
+
+#comp ul li, #lang ul li {
+    float: left;
+    width: 50%;
+    padding-left: 30px;
+    box-sizing: border-box;
+}
+
+
+#info {
+    width: calc(100% - 20px);
+    text-align: justify;
+}
+
+#comp{
+    height: 100%;
+}

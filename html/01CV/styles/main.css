@@ -1,0 +1,184 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+#all{
+    font-family: 'Merriweather', serif;
+    background-color: black;
+    color: rgb(0, 60, 255);
+    text-align: center;
+    max-width: 720px;
+    margin: 0px auto;
+    padding: 10px 0px;
+    min-height: 100vh;
+}
+header{
+    color: black;
+    background-color: aquamarine;
+    padding: 2.5px;
+}
+section{
+    max-width: 700px;
+    margin: 20px 40px;
+    background-color: grey;
+    border: 3px solid black;
+    border-radius: 5%;
+    overflow: hidden;
+}
+img{
+    width: 300px;
+    margin-bottom: 15px;
+    border-radius: 5%;
+}
+h1{
+    margin: 0px;
+}
+.small{
+    width: 284.2px;
+    float: left;
+}
+dl{
+    margin: 0px;
+    text-align: left;
+    display: inline-block;
+    padding-top: 10px;
+}
+dt{
+    float: left;
+    clear: both;
+}
+dd{
+    max-width: 210px;
+    float: left;
+    margin: 0px 10px 10px 3px;  
+    box-sizing: border-box;  
+}
+.big{
+    clear: both;
+}
+ul{
+    margin: 20px;
+    padding: 0px;
+    text-align: left;
+}
+li{
+    padding: 5px 5px;
+    text-align: left;
+    display: inline-block;
+    min-width: 100px;
+}
+.pack{
+    margin: auto;
+    height: 487px;
+}
+.exp{
+    margin-right: 20px;
+    height: 100%;
+}
+#mat{
+    color: rgb(119, 0, 0);
+}
+#punch{
+    font-style: italic;
+}
+form{
+    margin-bottom: 15px;
+    text-align: left;
+    background-color: pink;
+    padding: 10px 0px;
+    margin: 10px 20px 0px;
+
+}
+form:hover{
+    background-color: blueviolet;
+}
+.coor{
+    width: 48%;
+    background-color: cyan;
+}
+button{
+    margin-top: 20px;
+    width: 41%;
+    border-radius: 0%;
+    background-color: white;
+    background-color: cyan;
+    border: none;
+}
+button:hover{
+    background-color: magenta;
+}
+#button{
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    display: block;
+    width: 587px;
+    padding-top: 1.5px;
+    padding-bottom: 1.5px;
+    clear: both;
+    margin-top: 35px;
+    background-color: cyan;
+    text-decoration: none;
+    }
+#button:visited{
+    color: black;
+}
+#button:hover{
+    background-color: magenta;
+}
+#mail{
+    width: 100%;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    clear: both;
+    background-color: cyan;
+    }
+#sex{
+    margin-left: 35px;
+    margin-right: 50px;
+    clear: both;
+}
+fieldset{
+    padding: 10px 5%;
+    margin: 10px;
+    background-color: yellow;
+}
+fieldset:hover{
+    background-color: orange;
+}
+select{
+        float: left;
+        border-radius: 0px;
+        background-color: cyan;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+#left{
+    margin-left: 46px;
+    box-sizing: border-box;
+}
+#right{
+    margin-right: 46px;
+    box-sizing: border-box;
+}
+text{
+    overflow: auto;
+}
+textarea{
+    resize: vertical;
+    width: 80%;
+    float: right;
+    background-color: cyan;
+}
+.sexe{
+    margin: 20px 0px 0px;
+}
+select{
+    text-align: center;
+}
+label{
+    margin-right: 75px;
+}

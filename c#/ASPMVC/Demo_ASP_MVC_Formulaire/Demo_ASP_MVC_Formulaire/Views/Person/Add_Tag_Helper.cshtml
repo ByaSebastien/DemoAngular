@@ -1,0 +1,29 @@
+﻿@model PersonForm
+@{
+    ViewData["Title"] = "Formulaire ajouter";
+}
+<h1>Ajouter une nouvelle personne</h1>
+
+<a asp-controller="Person" asp-action="Index" class="btn btn-dark mb-2">Retour à la liste</a>
+
+<form method="post" asp-controller="Person" asp-action="Add">
+
+    <label asp-for="Firstname"></label>
+    <input asp-for="Firstname" placeholder="Prénom"/>
+    <span asp-validation-for="Firstname" class="text-danger"></span>
+
+    <label asp-for="Lastname"></label>
+    <input asp-for="Lastname" placeholder="Nom"/>
+    <span asp-validation-for="Lastname" class="text-danger"></span>
+
+    <label asp-for="Email"></label>
+    <input asp-for="Email" placeholder="Mail"/>
+    <span asp-validation-for="Email" class="text-danger"></span>
+
+    <label asp-for="Secret"></label>
+    <input asp-for="Secret" placeholder="Mot de passe"/>
+    <span asp-validation-for="Secret" class="text-danger"></span>
+
+    <button type="submit" class="btn btn-dark">Ajouter</button>
+
+</form>

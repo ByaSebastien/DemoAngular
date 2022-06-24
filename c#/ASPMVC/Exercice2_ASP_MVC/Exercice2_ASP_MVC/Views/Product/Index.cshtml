@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Liste des produits";
+}
+
+<h1>Liste des produits</h1>
+<p><a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Add">Ajouter un produit</a></p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Référence</th>
+            <th>Nom</th>
+            <th>Prix</th>
+            <th>Stock</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Product product in Model)
+        {
+            <tr>
+                <td>@product.Reference</td>
+                <td>@product.Name</td>
+                <td>
+                    <div class="@(product.Reduction is not null ? "prixCasse":"")">
+                    @product.Price €
+                    </div>
+                @{
+                    if(Model.FirstOrDefault(p=>p.Reduction is not null) is not null)
+                    {
+                        <div class="prixReduction">
+                        @(product.Reduction is not null ? product.Price-((product.Price/100)*product.Reduction)+" €" : "")
+                        </div>
+                    }
+                }
+                </td>
+                <td>@product.QuantityInStock</td>
+                <td><a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="RemoveStock" asp-route-reference="@product.Reference">
+                    <button class="btn-dark">-</button>
+                    </a></td>
+                <td><a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="AddStock" asp-route-reference="@product.Reference">
+                    <button class="btn-dark">+</button>
+                </a></td>
+                <td><a class="nav-link" asp-area="" asp-controller="Product" asp-action="Detail" asp-route-reference="@product.Reference">Detail</a></td>
+                <td><a class="nav-link" asp-area="" asp-controller="Product" asp-action="Remove" asp-route-reference="@product.Reference">Supprimer</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+

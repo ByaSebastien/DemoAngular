@@ -1,0 +1,27 @@
+SQL => Structured Query Language
+
+	Divise en 3 modules
+	=> DDL => Data Definition Language
+				Langage qui definit les objets de la DB
+				ex : Tables , Views , Functions etc...
+			3 Instructions :
+				CREATE
+				ALTER
+				DROP
+				
+	=> DCL => Data Control Language
+				Langage de gestion d'accès à la DB
+			3 Instructions
+				Grant donner accès à une ressource
+				Deny  dénier l'accès à une ressource
+				Revoke révoquer le deny ou le grant
+				
+	=> DML => Data Manipulation Language
+				Langage pour utliser le contenu de la DB (les données)
+			4 Instructions
+				SELECT permet de lire les données de la DB
+				INSERT permet d'ajouter des enregistrements dans la db
+				UPDATE permet de modifier des données de la db
+				DELETE permet d'effacer des enregistrements de la DB
+				
+				CRUD equivaut aux 4 instructions

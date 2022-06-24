@@ -1,0 +1,15 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\bin\Debug\net6.0\UsingStringBuilder.exe
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\bin\Debug\net6.0\UsingStringBuilder.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\bin\Debug\net6.0\UsingStringBuilder.runtimeconfig.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\bin\Debug\net6.0\UsingStringBuilder.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\bin\Debug\net6.0\UsingStringBuilder.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\obj\Debug\net6.0\UsingStringBuilder.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\obj\Debug\net6.0\UsingStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\obj\Debug\net6.0\UsingStringBuilder.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\obj\Debug\net6.0\UsingStringBuilder.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\obj\Debug\net6.0\UsingStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\obj\Debug\net6.0\UsingStringBuilder.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\obj\Debug\net6.0\refint\UsingStringBuilder.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\obj\Debug\net6.0\UsingStringBuilder.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\obj\Debug\net6.0\UsingStringBuilder.genruntimeconfig.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\UsingStringBuilder\UsingStringBuilder\obj\Debug\net6.0\ref\UsingStringBuilder.dll

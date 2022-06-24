@@ -1,0 +1,18 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h1>@Model.Name</h1>
+<p>@Model.Reference</p>
+<p>@Model.Description</p>
+<p>@Model.Price</p>
+@{
+    if (Model.Reduction is not null)
+    {
+        <p class="prixReduction">@(Model.Price-((Model.Price/100)*Model.Reduction))</p>
+    }
+}
+<p>@Model.Reduction %</p>
+<p>@Model.QuantityInStock</p>

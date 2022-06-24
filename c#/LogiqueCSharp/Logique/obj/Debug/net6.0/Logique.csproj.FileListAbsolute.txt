@@ -1,0 +1,15 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\bin\Debug\net6.0\Logique.exe
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\bin\Debug\net6.0\Logique.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\bin\Debug\net6.0\Logique.runtimeconfig.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\bin\Debug\net6.0\Logique.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\bin\Debug\net6.0\Logique.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\obj\Debug\net6.0\Logique.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\obj\Debug\net6.0\Logique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\obj\Debug\net6.0\Logique.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\obj\Debug\net6.0\Logique.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\obj\Debug\net6.0\Logique.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\obj\Debug\net6.0\Logique.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\obj\Debug\net6.0\refint\Logique.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\obj\Debug\net6.0\Logique.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\obj\Debug\net6.0\Logique.genruntimeconfig.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\LogiqueCSharp\Logique\obj\Debug\net6.0\ref\Logique.dll

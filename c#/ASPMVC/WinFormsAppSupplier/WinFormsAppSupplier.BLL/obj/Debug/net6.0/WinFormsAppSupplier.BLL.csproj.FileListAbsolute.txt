@@ -1,0 +1,15 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\bin\Debug\net6.0\WinFormsAppSupplier.BLL.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\bin\Debug\net6.0\WinFormsAppSupplier.BLL.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\bin\Debug\net6.0\WinFormsAppSupplier.BLL.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\bin\Debug\net6.0\WinFormsAppSupplier.DAL.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\bin\Debug\net6.0\WinFormsAppSupplier.DAL.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\obj\Debug\net6.0\WinFormsAppSupplier.BLL.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\obj\Debug\net6.0\WinFormsAppSupplier.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\obj\Debug\net6.0\WinFormsAppSupplier.BLL.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\obj\Debug\net6.0\WinFormsAppSupplier.BLL.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\obj\Debug\net6.0\WinFormsAppSupplier.BLL.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\obj\Debug\net6.0\WinFormsAppSupplier.BLL.csproj.CopyComplete
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\obj\Debug\net6.0\WinFormsAppSupplier.BLL.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\obj\Debug\net6.0\refint\WinFormsAppSupplier.BLL.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\obj\Debug\net6.0\WinFormsAppSupplier.BLL.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\WinFormsAppSupplier\WinFormsAppSupplier.BLL\obj\Debug\net6.0\ref\WinFormsAppSupplier.BLL.dll

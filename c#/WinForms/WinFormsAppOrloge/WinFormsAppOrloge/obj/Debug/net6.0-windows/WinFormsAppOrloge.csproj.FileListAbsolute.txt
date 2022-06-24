@@ -1,0 +1,17 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\bin\Debug\net6.0-windows\WinFormsAppOrloge.exe
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\bin\Debug\net6.0-windows\WinFormsAppOrloge.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\bin\Debug\net6.0-windows\WinFormsAppOrloge.runtimeconfig.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\bin\Debug\net6.0-windows\WinFormsAppOrloge.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\bin\Debug\net6.0-windows\WinFormsAppOrloge.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\WinFormsAppOrloge.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\WinFormsAppOrloge.csproj.GenerateResource.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\WinFormsAppOrloge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\WinFormsAppOrloge.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\WinFormsAppOrloge.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\WinFormsAppOrloge.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\WinFormsAppOrloge.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\refint\WinFormsAppOrloge.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\WinFormsAppOrloge.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\WinFormsAppOrloge.genruntimeconfig.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\ref\WinFormsAppOrloge.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsAppOrloge\WinFormsAppOrloge\obj\Debug\net6.0-windows\WinFormsAppOrloge.HorlogeForm.resources

@@ -1,0 +1,26 @@
+﻿@model PersonForm
+@{
+    ViewData["Title"] = "Formulaire ajouter";
+}
+<h1>Ajouter une nouvelle personne</h1>
+@Html.ActionLink("Retour à la liste","Index","Person",null,new {@class ="btn btn-dark"})
+@using (@Html.BeginForm(FormMethod.Post, new { @class = "text-primary" }))
+{
+    @Html.LabelFor(Model => Model.Firstname)
+    @Html.EditorFor(Model => Model.Firstname, new { htmlAttributes = new{ placeholder = "Nom"}})
+    @Html.ValidationMessageFor(Model => Model.Firstname,null,htmlAttributes:new{@class = "text-danger"})
+
+    @Html.LabelFor(Model => Model.Lastname)
+    @Html.EditorFor(Model => Model.Lastname)
+    @Html.ValidationMessageFor(Model => Model.Lastname,null,htmlAttributes:new{@class = "text-danger"})
+
+    @Html.LabelFor(Model => Model.Email)
+    @Html.EditorFor(Model => Model.Email)
+    @Html.ValidationMessageFor(Model => Model.Email,null,htmlAttributes:new{@class = "text-danger"})
+
+    @Html.LabelFor(Model => Model.Secret)
+    @Html.EditorFor(Model => Model.Secret)
+    @Html.ValidationMessageFor(Model => Model.Secret,null,htmlAttributes:new{@class = "text-danger"})
+
+    <button type="submit" class="btn btn-dark">Ajouter</button>
+}

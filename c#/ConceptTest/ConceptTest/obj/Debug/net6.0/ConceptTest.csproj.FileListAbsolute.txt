@@ -1,0 +1,15 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\bin\Debug\net6.0\ConceptTest.exe
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\bin\Debug\net6.0\ConceptTest.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\bin\Debug\net6.0\ConceptTest.runtimeconfig.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\bin\Debug\net6.0\ConceptTest.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\bin\Debug\net6.0\ConceptTest.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\obj\Debug\net6.0\ConceptTest.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\obj\Debug\net6.0\ConceptTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\obj\Debug\net6.0\ConceptTest.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\obj\Debug\net6.0\ConceptTest.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\obj\Debug\net6.0\ConceptTest.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\obj\Debug\net6.0\ConceptTest.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\obj\Debug\net6.0\refint\ConceptTest.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\obj\Debug\net6.0\ConceptTest.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\obj\Debug\net6.0\ConceptTest.genruntimeconfig.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ConceptTest\ConceptTest\obj\Debug\net6.0\ref\ConceptTest.dll

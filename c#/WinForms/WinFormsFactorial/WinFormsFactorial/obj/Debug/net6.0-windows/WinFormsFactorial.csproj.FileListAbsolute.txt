@@ -1,0 +1,17 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\bin\Debug\net6.0-windows\WinFormsFactorial.exe
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\bin\Debug\net6.0-windows\WinFormsFactorial.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\bin\Debug\net6.0-windows\WinFormsFactorial.runtimeconfig.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\bin\Debug\net6.0-windows\WinFormsFactorial.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\bin\Debug\net6.0-windows\WinFormsFactorial.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\WinFormsFactorial.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\WinFormsFactorial.factorialForm.resources
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\WinFormsFactorial.csproj.GenerateResource.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\WinFormsFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\WinFormsFactorial.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\WinFormsFactorial.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\WinFormsFactorial.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\WinFormsFactorial.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\refint\WinFormsFactorial.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\WinFormsFactorial.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\WinFormsFactorial.genruntimeconfig.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\WinFormsFactorial\obj\Debug\net6.0-windows\ref\WinFormsFactorial.dll

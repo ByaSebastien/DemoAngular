@@ -1,0 +1,12 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\bin\Release\net6.0\BLLFactorial.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\bin\Release\net6.0\BLLFactorial.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\bin\Release\net6.0\BLLFactorial.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\obj\Release\net6.0\BLLFactorial.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\obj\Release\net6.0\BLLFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\obj\Release\net6.0\BLLFactorial.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\obj\Release\net6.0\BLLFactorial.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\obj\Release\net6.0\BLLFactorial.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\obj\Release\net6.0\BLLFactorial.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\obj\Release\net6.0\refint\BLLFactorial.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\obj\Release\net6.0\BLLFactorial.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\WinForms\WinFormsFactorial\BLLFactorial\obj\Release\net6.0\ref\BLLFactorial.dll

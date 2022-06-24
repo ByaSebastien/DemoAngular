@@ -1,0 +1,15 @@
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\bin\Debug\net6.0\TechniNet-CSharpFondamental.exe
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\bin\Debug\net6.0\TechniNet-CSharpFondamental.deps.json
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\bin\Debug\net6.0\TechniNet-CSharpFondamental.runtimeconfig.json
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\bin\Debug\net6.0\TechniNet-CSharpFondamental.dll
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\bin\Debug\net6.0\TechniNet-CSharpFondamental.pdb
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\obj\Debug\net6.0\TechniNet-CSharpFondamental.csproj.AssemblyReference.cache
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\obj\Debug\net6.0\TechniNet-CSharpFondamental.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\obj\Debug\net6.0\TechniNet-CSharpFondamental.AssemblyInfoInputs.cache
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\obj\Debug\net6.0\TechniNet-CSharpFondamental.AssemblyInfo.cs
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\obj\Debug\net6.0\TechniNet-CSharpFondamental.csproj.CoreCompileInputs.cache
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\obj\Debug\net6.0\TechniNet-CSharpFondamental.dll
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\obj\Debug\net6.0\refint\TechniNet-CSharpFondamental.dll
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\obj\Debug\net6.0\TechniNet-CSharpFondamental.pdb
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\obj\Debug\net6.0\TechniNet-CSharpFondamental.genruntimeconfig.cache
+E:\project\formation\DotNet\TechniNet-CSharpFondamental\TechniNet-CSharpFondamental\obj\Debug\net6.0\ref\TechniNet-CSharpFondamental.dll

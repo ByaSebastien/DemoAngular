@@ -1,0 +1,10 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.Database\bin\Debug\Demo_ASP_MVC_Modele.Database.dacpac
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.Database\bin\Debug\Demo_ASP_MVC_Modele.Database.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.Database\bin\Debug\Demo_ASP_MVC_Modele.Database.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.Database\obj\Debug\Demo_ASP_MVC_Modele.Database.sqlproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.Database\obj\Debug\Demo_ASP_MVC_Modele.Database.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.Database\obj\Debug\Demo_ASP_MVC_Modele.Database.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.Database\obj\Debug\Model.xml
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.Database\obj\Debug\refactor.xml
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.Database\obj\Debug\postdeploy.sql
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.Database\obj\Debug\predeploy.sql

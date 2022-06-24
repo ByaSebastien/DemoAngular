@@ -1,0 +1,15 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\bin\Debug\net6.0\Delegue.exe
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\bin\Debug\net6.0\Delegue.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\bin\Debug\net6.0\Delegue.runtimeconfig.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\bin\Debug\net6.0\Delegue.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\bin\Debug\net6.0\Delegue.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\obj\Debug\net6.0\Delegue.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\obj\Debug\net6.0\Delegue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\obj\Debug\net6.0\Delegue.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\obj\Debug\net6.0\Delegue.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\obj\Debug\net6.0\Delegue.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\obj\Debug\net6.0\Delegue.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\obj\Debug\net6.0\refint\Delegue.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\obj\Debug\net6.0\Delegue.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\obj\Debug\net6.0\Delegue.genruntimeconfig.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\Delegue\Delegue\obj\Debug\net6.0\ref\Delegue.dll

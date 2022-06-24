@@ -1,0 +1,184 @@
+body{
+    background-color: black;
+}
+table, td, th, tr{
+    border: 3px solid white;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+}
+.type{
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 0.8rem;
+    color: black;
+}
+th, tfoot{
+    font-weight: bold;
+    background-color: darkslategray;
+    color: white;
+    font-size: 1.8rem;
+}
+td{
+    width: 120px;
+    height: 120px;
+}
+table{
+    margin: 20px auto;
+}
+.ff{
+    background-color: red;
+}
+.b{
+    background-color: blue;
+}
+.p{
+    background-color: green;
+}
+.f{
+    background-color: blueviolet;
+}
+#mcdo:hover{
+    background-image: url(../image/mcdo.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#mcdo:hover *{
+    display: none;
+}
+#kleyer:hover{
+    background-image: url(../image/kleyer.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#kleyer:hover *{
+    display: none;
+}
+#kfc:hover{
+    background-image: url(../image/kfc.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#kfc:hover *{
+    display: none;
+}
+#miam:hover{
+    background-image: url(../image/miam.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#miam:hover *{
+    display: none;
+}
+#spratchie:hover{
+    background-image: url(../image/spratchie.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#spratchie:hover *{
+    display: none;
+}
+#dona:hover{
+    background-image: url(../image/donna.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#dona:hover *{
+    display: none;
+}
+#natasha:hover{
+    background-image: url(../image/natasha.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#natasha:hover *{
+    display: none;
+}
+#bk:hover{
+    background-image: url(../image/bk.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#bk:hover *{
+    display: none;
+}
+#bk:hover{
+    background-image: url(../image/bk.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#bk:hover *{
+    display: none;
+}
+#suprem:hover{
+    background-image: url(../image/supreme.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#suprem:hover *{
+    display: none;
+}
+#hb:hover{
+    background-image: url(../image/hb.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#hb:hover *{
+    display: none;
+}
+#savoia:hover{
+    background-image: url(../image/dasavoia.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#savoia:hover *{
+    display: none;
+}
+#rustica:hover{
+    background-image: url(../image/rustica.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#rustica:hover *{
+    display: none;
+}
+#quick:hover{
+    background-image: url(../image/quick.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#quick:hover *{
+    display: none;
+}
+#beeef:hover{
+    background-image: url(../image/beeef.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#beeef:hover *{
+    display: none;
+}
+#love:hover{
+    background-image: url(../image/love.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#love:hover *{
+    display: none;
+}
+#grotta:hover{
+    background-image: url(../image/grotta.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#grotta:hover *{
+    display: none;
+}
+#hut:hover{
+    background-image: url(../image/pizzahut.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#hut:hover *{
+    display: none;
+}

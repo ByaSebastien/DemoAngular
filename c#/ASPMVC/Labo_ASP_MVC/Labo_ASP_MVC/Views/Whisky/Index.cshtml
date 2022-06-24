@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Whisky>
+@{
+    ViewData["Title"] = "Whiskie";
+}
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th>Nom</th>
+                <th>Origine</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (Whisky whisky in Model)
+                {
+                    <tr>
+                        <td>@whisky.Name</td>
+                        <td>@whisky.Origin</td>
+                        <td>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Whisky" asp-action="Detail" asp-route-id="@whisky.Id">Detail</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,71 @@
+﻿@model Exercice_3_List.Models.Plat
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Plat</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>           
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Origin" class="control-label"></label>
+                <input asp-for="Origin" class="form-control" />
+                <span asp-validation-for="Origin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Type" class="control-label"></label>
+                <div class="wrapper">
+                    @*asp-items="@Html.GetEnumSelectList(typeof(TypeDePlat))"*@
+                    <select asp-for="Type" class="form-control">
+                        @{
+                            foreach (string typeDePlat in Enum.GetNames(typeof(TypeDePlat)))
+                            {
+                                <option value="@typeDePlat">@typeDePlat</option>
+                            }
+                        }
+                    </select>
+                </div>
+                <span asp-validation-for="Type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <ul>
+                    @{
+                        for (int i = 0; i < Model.Ingredients.Count(); i++)
+                        {
+                            <li>
+                                <label asp-for="Ingredients" class="control-label"></label>
+                                <input asp-for="Ingredients" value="@Model.Ingredients[i]" class="form-control" />
+                            </li>
+                        }
+                    }
+                </ul>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

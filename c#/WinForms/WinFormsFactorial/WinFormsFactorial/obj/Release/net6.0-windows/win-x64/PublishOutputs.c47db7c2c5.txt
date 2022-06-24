@@ -1,0 +1,8 @@
+C:\Users\studentdot0401\Desktop\aaa\GUIFactorial.pdb
+C:\Users\studentdot0401\Desktop\aaa\D3DCompiler_47_cor3.dll
+C:\Users\studentdot0401\Desktop\aaa\PenImc_cor3.dll
+C:\Users\studentdot0401\Desktop\aaa\PresentationNative_cor3.dll
+C:\Users\studentdot0401\Desktop\aaa\vcruntime140_cor3.dll
+C:\Users\studentdot0401\Desktop\aaa\wpfgfx_cor3.dll
+C:\Users\studentdot0401\Desktop\aaa\BLLFactorial.pdb
+C:\Users\studentdot0401\Desktop\aaa\GUIFactorial.exe

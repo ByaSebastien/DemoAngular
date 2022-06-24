@@ -1,0 +1,59 @@
+h1, #punch{
+    text-align: center;
+}
+img{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+}
+.small{
+    display: flex;
+    flex-flow: column;
+}
+h2{
+    text-align: center;
+}
+.def{
+    display: flex;
+    flex-flow: row;
+}
+dt{
+    width: 20%;
+}
+dd{
+    width: 80%;
+    margin-left: 0px;
+}
+.small{
+    border: 2px solid black;
+    border-radius: 10%;
+    overflow: hidden;
+    width: 40%;
+    background-color: aqua;
+}
+.a{
+    width: 100%;
+}
+h2{
+    background-color: darkcyan;
+    padding: 5%;
+}
+.pack{
+    justify-content: space-around;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    align-items: stretch;
+    height: 50vh;
+}
+#pack{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    justify-content: space-between;
+}
+li, dl{
+    margin: 5%;
+}
+

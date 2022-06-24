@@ -1,0 +1,8 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.WebApp\obj\Debug\net6.0\Demo_ASP_MVC_Modele.WebApp.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.WebApp\obj\Debug\net6.0\Demo_ASP_MVC_Modele.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.WebApp\obj\Debug\net6.0\Demo_ASP_MVC_Modele.WebApp.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.WebApp\obj\Debug\net6.0\Demo_ASP_MVC_Modele.WebApp.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.WebApp\obj\Debug\net6.0\Demo_ASP_MVC_Modele.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.WebApp\obj\Debug\net6.0\Demo_ASP_MVC_Modele.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.WebApp\obj\Debug\net6.0\Demo_ASP_MVC_Modele.WebApp.RazorAssemblyInfo.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.WebApp\obj\Debug\net6.0\Demo_ASP_MVC_Modele.WebApp.RazorAssemblyInfo.cs

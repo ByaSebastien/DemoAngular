@@ -1,0 +1,12 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\obj\Debug\net6.0\Demo_ASP_MVC_Modele.DAL.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\obj\Debug\net6.0\Demo_ASP_MVC_Modele.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\obj\Debug\net6.0\Demo_ASP_MVC_Modele.DAL.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\obj\Debug\net6.0\Demo_ASP_MVC_Modele.DAL.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\obj\Debug\net6.0\Demo_ASP_MVC_Modele.DAL.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\bin\Debug\net6.0\Demo_ASP_MVC_Modele.DAL.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\bin\Debug\net6.0\Demo_ASP_MVC_Modele.DAL.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\bin\Debug\net6.0\Demo_ASP_MVC_Modele.DAL.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\obj\Debug\net6.0\Demo_ASP_MVC_Modele.DAL.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\obj\Debug\net6.0\refint\Demo_ASP_MVC_Modele.DAL.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\obj\Debug\net6.0\Demo_ASP_MVC_Modele.DAL.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.DAL\obj\Debug\net6.0\ref\Demo_ASP_MVC_Modele.DAL.dll

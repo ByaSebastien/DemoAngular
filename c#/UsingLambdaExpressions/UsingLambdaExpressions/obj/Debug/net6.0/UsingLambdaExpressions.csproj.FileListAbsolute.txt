@@ -1,0 +1,15 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\obj\Debug\net6.0\UsingLambdaExpressions.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\obj\Debug\net6.0\UsingLambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\obj\Debug\net6.0\UsingLambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\obj\Debug\net6.0\UsingLambdaExpressions.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\obj\Debug\net6.0\UsingLambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\bin\Debug\net6.0\UsingLambdaExpressions.exe
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\bin\Debug\net6.0\UsingLambdaExpressions.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\bin\Debug\net6.0\UsingLambdaExpressions.runtimeconfig.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\bin\Debug\net6.0\UsingLambdaExpressions.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\bin\Debug\net6.0\UsingLambdaExpressions.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\obj\Debug\net6.0\UsingLambdaExpressions.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\obj\Debug\net6.0\refint\UsingLambdaExpressions.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\obj\Debug\net6.0\UsingLambdaExpressions.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\obj\Debug\net6.0\UsingLambdaExpressions.genruntimeconfig.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\UsingLambdaExpressions\UsingLambdaExpressions\obj\Debug\net6.0\ref\UsingLambdaExpressions.dll

@@ -1,0 +1,20 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       [dbo].[Game]
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Supprimer
+       contrainte sans nom sur [dbo].[Game] (Contrainte par défaut)
+     Reconstruction de la table
+       [dbo].[Game] (Table)
+
+** Actions de support
+     Créer
+       [dbo].[CK_Game_Nb_Player] (Contrainte de validation)
+       [dbo].[CK_Game_Age] (Contrainte de validation)

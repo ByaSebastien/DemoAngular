@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles/normalize.css">
+    <link rel="stylesheet" type="text/css" href="styles/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <title>Formulaire de contact</title>
+</head>
+
+<body>
+    <div id="all" class="main">
+        <h1>Formulaire de contact</h1>
+        <form method="post">
+            <fieldset>
+                <legend>Coordonnées</legend>
+                <input type="text" name="nom" placeholder="Nom" class="coor left">
+                <input type="text" name="prenom" placeholder="Prenom" class="coor right">
+                <br>
+                <div class="sexe">
+                    <label for="sexe" id="sex">Sexe :</label>
+                    <input type="checkbox" name="sexe" id="homme">
+                    <label for="homme">Homme</label>
+                    <input type="checkbox" name="sexe" id="femme">
+                    <label for="femme">Femme</label>
+                    <input type="checkbox" name="sexe" id="autre">
+                    <label for="autre">Autre</label>
+                </div>
+                <br>
+                <input type="email" placeholder="toto@gmail.com" id="mail">
+                <br>
+                <input type="tel" placeholder="N° mobile" class="coor left">
+                <input type="tel" placeholder="N° fixe" class="coor right">
+            </fieldset>
+            <fieldset>
+                <legend>Vos besoins</legend>
+                <select name="web">
+                    <optgroup label="1">
+                        <option value="css">CSS</option>
+                        <option value="html">Html</option>
+                    </optgroup>
+                    <optgroup label="2">
+                        <option value="csharp">C#</option>
+                        <option value="php">PHP</option>
+                    </optgroup>
+                </select>
+                <textarea name="textarea" cols="50" rows="5"></textarea>
+            </fieldset>
+            <button type="submit" class="left" id="left">Envoyer</button>
+            <button type="reset" class="right" id="right">Reset</button>
+            <br>
+            <a href="index.html" id="button">Retour au CV</a>
+        </form>
+    </div>
+</body>
+
+</html>

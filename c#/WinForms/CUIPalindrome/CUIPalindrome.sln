@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUIPalindrome", "CUIPalindrome\CUIPalindrome.csproj", "{42C5C2D8-2C2C-478D-91A6-4AAEDE05FCDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42C5C2D8-2C2C-478D-91A6-4AAEDE05FCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C5C2D8-2C2C-478D-91A6-4AAEDE05FCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C5C2D8-2C2C-478D-91A6-4AAEDE05FCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C5C2D8-2C2C-478D-91A6-4AAEDE05FCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C89DD7-48E4-4683-8EE4-ADA0D7A877B0}
+	EndGlobalSection
+EndGlobal

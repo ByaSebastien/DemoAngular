@@ -1,0 +1,18 @@
+﻿@model PersonForm
+@{
+    ViewData["Title"] = "Formulaire ajouter";
+}
+<h1>Ajouter une nouvelle personne</h1>
+<form method="post">
+    <label for="firstname">@Html.DisplayNameFor(Model => Model.Firstname)</label>
+    <label for="lastname">@Html.DisplayNameFor(Model => Model.Lastname)</label>
+    <input type="text" id="lastname" placeholder="Prenom" name="lastname" value="@Model.Lastname" />
+    <label for="email">@Html.DisplayNameFor(Model => Model.Email)</label>
+    <input type="email" id="email" placeholder="Email" name="email" value="@Model.Email" />
+    <label for="secret">@Html.DisplayNameFor(Model => Model.Secret)</label>
+    <input type="password" id="secret" placeholder="Secret" name="secret" value="@Model.Secret" />
+    <button type="submit">Ajouter</button>
+</form>
+<div class="text-danger">
+    @Html.ValidationSummary()
+</div>

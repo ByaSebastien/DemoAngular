@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Duck>
+@{
+    ViewData["Title"] = "Liste des canards";
+
+}
+<h1>La Liste des Canards</h1>
+
+<ol>
+    @{
+        foreach (Duck duck in Model)
+        {
+            int age = new DateTime(DateTime.Now.Subtract(duck.Birthdate).Ticks).Year - 1;
+            <li>@duck.FirstName - @duck.LastName - @duck.Address - @age</li>
+        }
+    }
+</ol>

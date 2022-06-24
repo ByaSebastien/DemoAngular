@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Person>
+@{
+    ViewData["Title"] = "Liste des personnes";
+}
+<a class="nav-link text-primary" asp-area="" asp-controller="Person" asp-action="Add">Ajouter nouveau</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Person person in Model)
+        {
+            <tr>
+                <td>@person.Firstname @person.Lastname</td>
+                <td>@person.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
