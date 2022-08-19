@@ -7,7 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.6" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demo_ASP_MVC_Modele.BLL\Demo_ASP_MVC_Modele.BLL.csproj" />
+    <ProjectReference Include="..\Demo_ASP_MVC_Modele.DAL\Demo_ASP_MVC_Modele.DAL.csproj" />
   </ItemGroup>
 
 </Project>

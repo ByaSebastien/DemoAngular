@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Pizza] (Table)
+       [dbo].[PizzaType] (Table)
+       [dbo].[FK_Pizza_PizzaType] (Foreign Key)
+       [dbo].[CK_Pizza_Price] (Check Constraint)
+       [dbo].[V_Pizza] (View)
+       [dbo].[SP_Pizza_Delete] (Procedure)
+       [dbo].[SP_Pizza_Insert] (Procedure)
+
+** Supporting actions

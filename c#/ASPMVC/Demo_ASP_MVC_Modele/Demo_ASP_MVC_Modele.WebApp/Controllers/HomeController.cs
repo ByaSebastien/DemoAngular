@@ -18,9 +18,6 @@ namespace Demo_ASP_MVC_Modele.WebApp.Controllers
         public IActionResult Index()
         {
             return View();
-            IDbConnection dbConnection = new SqlConnection();
-            dbConnection.
-
         }
 
         public IActionResult Privacy()

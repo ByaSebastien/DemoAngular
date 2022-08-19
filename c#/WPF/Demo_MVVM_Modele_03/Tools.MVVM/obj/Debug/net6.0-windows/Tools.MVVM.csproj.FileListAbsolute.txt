@@ -1,0 +1,12 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\bin\Debug\net6.0-windows\Tools.MVVM.deps.json
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\bin\Debug\net6.0-windows\Tools.MVVM.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\bin\Debug\net6.0-windows\Tools.MVVM.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\obj\Debug\net6.0-windows\Tools.MVVM.csproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\obj\Debug\net6.0-windows\Tools.MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\obj\Debug\net6.0-windows\Tools.MVVM.AssemblyInfoInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\obj\Debug\net6.0-windows\Tools.MVVM.AssemblyInfo.cs
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\obj\Debug\net6.0-windows\Tools.MVVM.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\obj\Debug\net6.0-windows\Tools.MVVM.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\obj\Debug\net6.0-windows\refint\Tools.MVVM.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\obj\Debug\net6.0-windows\Tools.MVVM.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\WPF\Demo_MVVM_Modele_03\Tools.MVVM\obj\Debug\net6.0-windows\ref\Tools.MVVM.dll

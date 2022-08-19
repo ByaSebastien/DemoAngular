@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo_ASP_MVC_Modele.DAL.Interfaces
+namespace DAL
 {
-    public interface IRepository<TKey,TEntity> where TEntity : IEntity<TKey>
+    public interface IRepository<TKey, TEntity> where TEntity : IEntity<TKey>
     {
         // CRUD 
 

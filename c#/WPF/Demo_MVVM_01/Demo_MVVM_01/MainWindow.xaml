@@ -1,0 +1,111 @@
+﻿<Window x:Class="Demo_MVVM_01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Demo_MVVM_01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="200"
+        DataContext="{Binding Source={StaticResource MainVM}}" FontSize="20">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.Row="0"
+                 Grid.Column="0"
+                 Background="LightBlue"
+                 Text="{Binding Message,UpdateSourceTrigger=PropertyChanged}"/>
+        
+        <TextBox Grid.Row="1"
+                 Grid.Column="0"
+                 Background="LightGreen"
+                 Text="{Binding Message2}"/>
+
+        <TextBlock Grid.Row="0"
+                   Grid.Column="2"
+                   Grid.RowSpan="2"
+                   FontSize="25"
+                   Background="LightPink"
+                   Text="{Binding Counter}"
+                   TextAlignment="Center"/>
+
+        <TextBlock Grid.Row="2"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                Text="{Binding MessageFinish}"
+                TextAlignment="Center"
+                Background="DarkCyan"/>
+
+        <TextBlock Grid.Row="3"
+                   Grid.ColumnSpan="2"
+                   Text="Kawabunga"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontWeight="Bold"
+                   FontFamily="Comic Sans MS"
+                   Foreground="White">
+            <TextBlock.Effect>
+                <DropShadowEffect Color="HotPink"
+                                  ShadowDepth="7"
+                                  Opacity="0.7"
+                                  Direction="315"
+                                  BlurRadius="5"/>
+            </TextBlock.Effect>
+        </TextBlock>
+        <TextBlock Grid.Row="3"
+                   Grid.ColumnSpan="2"
+                   Text="Kawabunga"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontWeight="Bold"
+                   FontFamily="Comic Sans MS"
+                   Foreground="White">
+            <TextBlock.Effect>
+                <DropShadowEffect Color="Chartreuse"
+                                  ShadowDepth="5"
+                                  Opacity="0.7"
+                                  Direction="225"
+                                  BlurRadius="5"/>
+            </TextBlock.Effect>
+        </TextBlock>
+        <TextBlock Grid.Row="3"
+                   Grid.ColumnSpan="2"
+                   Text="Kawabunga"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontWeight="Bold"
+                   FontFamily="Comic Sans MS"
+                   Foreground="White">
+            <TextBlock.Effect>
+                <DropShadowEffect Color="Yellow"
+                                  ShadowDepth="6"
+                                  Opacity="0.7"
+                                  Direction="45"
+                                  BlurRadius="5"/>
+            </TextBlock.Effect>
+        </TextBlock>
+        <TextBlock Grid.Row="3"
+                   Grid.ColumnSpan="2"
+                   Text="Kawabunga"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontWeight="Bold"
+                   FontFamily="Comic Sans MS"
+                   Foreground="White">
+            <TextBlock.Effect>
+                <DropShadowEffect Color="BlueViolet"
+                                  ShadowDepth="4"
+                                  Opacity="0.7"
+                                  Direction="135"
+                                  BlurRadius="5"/>
+            </TextBlock.Effect>
+        </TextBlock>
+    </Grid>
+</Window>

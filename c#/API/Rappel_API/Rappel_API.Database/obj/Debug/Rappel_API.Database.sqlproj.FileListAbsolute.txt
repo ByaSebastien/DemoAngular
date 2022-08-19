@@ -1,0 +1,10 @@
+C:\Users\studentdot0401\Desktop\sebastien\c#\API\Rappel_API\Rappel_API.Database\bin\Debug\Rappel_API.Database.dacpac
+C:\Users\studentdot0401\Desktop\sebastien\c#\API\Rappel_API\Rappel_API.Database\bin\Debug\Rappel_API.Database.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\API\Rappel_API\Rappel_API.Database\bin\Debug\Rappel_API.Database.pdb
+C:\Users\studentdot0401\Desktop\sebastien\c#\API\Rappel_API\Rappel_API.Database\obj\Debug\Rappel_API.Database.sqlproj.AssemblyReference.cache
+C:\Users\studentdot0401\Desktop\sebastien\c#\API\Rappel_API\Rappel_API.Database\obj\Debug\Model.xml
+C:\Users\studentdot0401\Desktop\sebastien\c#\API\Rappel_API\Rappel_API.Database\obj\Debug\refactor.xml
+C:\Users\studentdot0401\Desktop\sebastien\c#\API\Rappel_API\Rappel_API.Database\obj\Debug\postdeploy.sql
+C:\Users\studentdot0401\Desktop\sebastien\c#\API\Rappel_API\Rappel_API.Database\obj\Debug\predeploy.sql
+C:\Users\studentdot0401\Desktop\sebastien\c#\API\Rappel_API\Rappel_API.Database\obj\Debug\Rappel_API.Database.dll
+C:\Users\studentdot0401\Desktop\sebastien\c#\API\Rappel_API\Rappel_API.Database\obj\Debug\Rappel_API.Database.pdb

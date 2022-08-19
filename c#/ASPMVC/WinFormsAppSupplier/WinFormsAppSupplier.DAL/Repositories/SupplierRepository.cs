@@ -12,11 +12,11 @@ namespace DAL
     {
         private IDbConnection _Connection;
 
-        private string connectionString = "Server=TFNSDOTDE0401B; Database=Northwind; Trusted_Connection=True;";
+        private string _ConnectionString = "Server=TFNSDOTDE0401B; Database=Northwind; Trusted_Connection=True;";
 
         public SupplierRepository()
         {
-            _Connection = new SqlConnection(connectionString);
+            _Connection = new SqlConnection(_ConnectionString);
         }
 
         private void GenerateParameter(IDbCommand command, string name, object data)

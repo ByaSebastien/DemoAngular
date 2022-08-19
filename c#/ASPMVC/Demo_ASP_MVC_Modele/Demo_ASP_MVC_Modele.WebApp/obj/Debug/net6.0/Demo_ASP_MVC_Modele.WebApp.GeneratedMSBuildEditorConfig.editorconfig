@@ -15,12 +15,44 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\studentdot0401\Desktop\sebastien\c#\ASPMVC\Demo_ASP_MVC_Modele\Demo_ASP_MVC_Modele.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/studentdot0401/Desktop/sebastien/c\#/ASPMVC/Demo_ASP_MVC_Modele/Demo_ASP_MVC_Modele.WebApp/Views/Game/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/studentdot0401/Desktop/sebastien/c\#/ASPMVC/Demo_ASP_MVC_Modele/Demo_ASP_MVC_Modele.WebApp/Views/Game/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/studentdot0401/Desktop/sebastien/c\#/ASPMVC/Demo_ASP_MVC_Modele/Demo_ASP_MVC_Modele.WebApp/Views/Game/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/studentdot0401/Desktop/sebastien/c\#/ASPMVC/Demo_ASP_MVC_Modele/Demo_ASP_MVC_Modele.WebApp/Views/Game/Favorite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxGYXZvcml0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/studentdot0401/Desktop/sebastien/c\#/ASPMVC/Demo_ASP_MVC_Modele/Demo_ASP_MVC_Modele.WebApp/Views/Game/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/studentdot0401/Desktop/sebastien/c\#/ASPMVC/Demo_ASP_MVC_Modele/Demo_ASP_MVC_Modele.WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/studentdot0401/Desktop/sebastien/c\#/ASPMVC/Demo_ASP_MVC_Modele/Demo_ASP_MVC_Modele.WebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/studentdot0401/Desktop/sebastien/c\#/ASPMVC/Demo_ASP_MVC_Modele/Demo_ASP_MVC_Modele.WebApp/Views/Member/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/studentdot0401/Desktop/sebastien/c\#/ASPMVC/Demo_ASP_MVC_Modele/Demo_ASP_MVC_Modele.WebApp/Views/Member/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/studentdot0401/Desktop/sebastien/c\#/ASPMVC/Demo_ASP_MVC_Modele/Demo_ASP_MVC_Modele.WebApp/Views/Member/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/studentdot0401/Desktop/sebastien/c\#/ASPMVC/Demo_ASP_MVC_Modele/Demo_ASP_MVC_Modele.WebApp/Views/Shared/Error.cshtml]
